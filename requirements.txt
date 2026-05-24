@@ -1,5 +1,5 @@
 Flask==3.0.3
+Flask-Cors
+Flask-Compress
+SQLAlchemy
 gunicorn==22.0.0
-numpy
-scipy
-

@@ -1,0 +1,12 @@
+varma.db
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+*.egg-info/
+.DS_Store
+ffmpeg-*/
+*.exe
+*.dll
+node_modules/

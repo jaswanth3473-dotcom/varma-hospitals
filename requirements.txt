@@ -3,3 +3,4 @@ Flask-Cors
 Flask-Compress
 SQLAlchemy
 gunicorn==22.0.0
+werkzeug
